@@ -5,7 +5,7 @@ Versión 1*/
 
 //Bibliotecas
 #include <stdio.h>
-
+//
 //Funcion principal
 int main(void) {
 
